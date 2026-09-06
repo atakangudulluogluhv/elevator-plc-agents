@@ -9,3 +9,5 @@ __pycache__/
 *.tpy
 *.tclrs
 *.compileinfo
+
+*.tsproj.bak
