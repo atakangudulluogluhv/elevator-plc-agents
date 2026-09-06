@@ -1,0 +1,11 @@
+.vs/
+.claude/
+_Boot/
+_CompileInfo/
+_ModuleInstall/
+__pycache__/
+*.pyc
+.env
+*.tpy
+*.tclrs
+*.compileinfo
