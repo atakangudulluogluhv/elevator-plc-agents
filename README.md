@@ -5,7 +5,6 @@ TwinCAT 3 simulation written in Structured Text. A small neural network makes th
 decisions; motor direction stays a deterministic latch, and every command passes through a safety
 enforcer before it is written to the PLC.
 
-![Elevator simulation](elevator_agents/screenshot.png)
 
 ## Why it is built this way
 
