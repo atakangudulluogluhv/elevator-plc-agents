@@ -1,5 +1,4 @@
 .vs/
-.claude/
 _Boot/
 _CompileInfo/
 _ModuleInstall/
@@ -9,5 +8,7 @@ __pycache__/
 *.tpy
 *.tclrs
 *.compileinfo
+_Libraries/
+LineIDs.dbg
 
 *.tsproj.bak
